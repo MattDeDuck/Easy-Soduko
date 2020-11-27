@@ -1,6 +1,6 @@
 ## Easy Sudoku
 
-A little program I worked on to help me learn PyGame.I know it's very basic.
+A little program I worked on to help me learn PyGame. I know it's very basic.
 
 ## Instructions
 
